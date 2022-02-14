@@ -1,0 +1,21 @@
+a {
+  color: rgb(184, 39, 177);
+  &:hover {
+    color: black;
+  }
+}
+$gray: #F4F4F4;
+
+body {
+  background: $gray;
+}
+.banner {
+  background: red;
+  h1 {
+    font-size: 50px;
+  }
+}
+#qanswer{
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+}
